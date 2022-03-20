@@ -6,13 +6,14 @@ Create an interactive map that will display the population and volcanoes, based 
 
 ### What I've learned -
 - Start with the task's requirements
-- 1. Focus on the demo, disregarding technology.
-- 2. Create a story around the presentation.
+- Focus on the demo, disregarding technology.
+- Create a story around the presentation.
 
 ## Project 2 - Object detection
 ### Description 
 Create a program that uses the web cam to detects object entering the farm, mark it with rectangle. Afterward display a graph of captured object duration  
 ### What I've learned -
+- 
 
 ## Tasks 
 - Code spell checker.
