@@ -1,6 +1,6 @@
 import sqlite3
 
-con = sqlite3.connect('bookstore.db')
+con = sqlite3.connect('./Project5-Gui_database/bookstore.db')
 cur = con.cursor()
 cur.execute("CREATE TABLE IF NOT EXISTS books (id INTEGER PRIMARY KEY , title TEXT, author TEXT, year INTEGER, isbn INTEGER)")
 
